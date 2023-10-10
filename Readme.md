@@ -1,4 +1,4 @@
-# anlp2023_guz
+# anlp2023_fall
 Sektör Kampüste kapsamında Bitlis ve Aksaray üniversitelerinde verdiğim uygulamalı doğal dil işleme dersinin kod ve sunumlarını burada barındıracağım.
 <br>
 <br>
